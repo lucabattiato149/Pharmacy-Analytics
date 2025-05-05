@@ -1,1 +1,1 @@
-# Pharma-Analytics 💊🔍🗂️
+# Pharma-Analytics 💊🔍📈🗂️
